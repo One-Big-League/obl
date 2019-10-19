@@ -1,0 +1,30 @@
+{
+  "name": "obl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "concurrently": "^5.0.0",
+    "express": "^4.17.1",
+    "if-env": "^1.0.4",
+    "mongoose": "^5.7.5",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/One-Big-League/obl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/One-Big-League/obl/issues"
+  },
+  "homepage": "https://github.com/One-Big-League/obl#readme"
+}
